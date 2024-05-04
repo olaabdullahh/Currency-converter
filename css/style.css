@@ -1,0 +1,19 @@
+.form-control{
+    width: 400px !important;
+}
+.row {
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+.col-md-6 {
+    flex: 0 0 auto !important;
+    width: 50% !important;
+}
+.container a {
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+.form-check {
+    margin-top: 20px;
+}
